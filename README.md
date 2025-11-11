@@ -1,4 +1,4 @@
-<img width="1531" height="961" alt="image" src="https://github.com/user-attachments/assets/54f4a026-2255-4ae0-9bfd-bfda1943bb29" /># Amplitude-Modulation
+
 
 EXP NO: 1	GENERATION AND DETECTION OF AM
 
